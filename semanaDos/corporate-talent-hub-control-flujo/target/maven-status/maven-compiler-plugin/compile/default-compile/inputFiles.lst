@@ -1,0 +1,11 @@
+<<<<<<< HEAD
+/home/Coder/NetBeansProjects/corporate-talent-hub-control-flujo/src/main/java/com/mycompany/corporate/talent/hub/control/flujo/App.java
+/home/Coder/NetBeansProjects/corporate-talent-hub-control-flujo/src/main/java/com/mycompany/corporate/talent/hub/control/flujo/modelo/Empleado.java
+/home/Coder/NetBeansProjects/corporate-talent-hub-control-flujo/src/main/java/com/mycompany/corporate/talent/hub/control/flujo/servicio/EmpleadoServicio.java
+/home/Coder/NetBeansProjects/corporate-talent-hub-control-flujo/src/main/java/com/mycompany/corporate/talent/hub/control/flujo/vista/EmpleadoVista.java
+=======
+/home/Coder/NetBeansProjects/App/src/main/java/com/mycompany/app/App.java
+/home/Coder/NetBeansProjects/App/src/main/java/com/mycompany/app/documentacion/NotasArquitectura.java
+/home/Coder/NetBeansProjects/App/src/main/java/com/mycompany/app/modelo/Empleado.java
+/home/Coder/NetBeansProjects/App/src/main/java/com/mycompany/app/modelo/EmpresaRecord.java
+>>>>>>> 383b383df8b47b6306a83c8693e4c1372343b8c7
