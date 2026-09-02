@@ -1,11 +1,8 @@
-<<<<<<< HEAD
-com/mycompany/corporate/talent/hub/control/flujo/servicio/EmpleadoServicio.class
 com/mycompany/corporate/talent/hub/control/flujo/vista/EmpleadoVista.class
-com/mycompany/corporate/talent/hub/control/flujo/modelo/Empleado.class
-com/mycompany/corporate/talent/hub/control/flujo/App.class
-=======
-com/mycompany/app/modelo/Empleado.class
 com/mycompany/app/App.class
-com/mycompany/app/documentacion/NotasArquitectura.class
+com/mycompany/corporate/talent/hub/control/flujo/modelo/Empleado.class
 com/mycompany/app/modelo/EmpresaRecord.class
->>>>>>> 383b383df8b47b6306a83c8693e4c1372343b8c7
+com/mycompany/corporate/talent/hub/control/flujo/App.class
+com/mycompany/corporate/talent/hub/control/flujo/servicio/EmpleadoServicio.class
+com/mycompany/app/modelo/Empleado.class
+com/mycompany/app/documentacion/NotasArquitectura.class
